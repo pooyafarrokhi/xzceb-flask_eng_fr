@@ -1,1 +1,1 @@
-# English to French Translation Using IBM Watson Translator API
+# English<->French Translation Using IBM Watson Translator API
